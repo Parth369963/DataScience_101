@@ -15,20 +15,35 @@ Topics Covered
 This repository covers the following topics:
 
 Data Exploration and Visualization
+
 Data Preprocessing and Cleaning
+
 Descriptive Statistics
+
 Inferential Statistics
+
 Probability Theory
+
 Hypothesis Testing
+
 Regression Analysis
+
 Classification Techniques
+
 Clustering Methods
+
 Dimensionality Reduction
+
 Feature Engineering
+
 Model Evaluation and Validation
+
 Introduction to Machine Learning
+
 Introduction to Deep Learning
+
 Introduction to Natural Language Processing
+
 Introduction to Recommender Systems
 
 ![Data-Science-GIF-2](https://github.com/Parth369963/DataScience_101/assets/110351235/a98c6981-4e6b-446c-b492-938dd90b7ab6)
