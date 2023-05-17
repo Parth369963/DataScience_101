@@ -1,3 +1,11 @@
+![ViewCount](https://views.whatilearened.today/views/github/Parth369963/DataScience_101.svg?cache=remove)
+![GitHub top language](https://img.shields.io/github/languages/top/Parth369963/DataScience_101?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/Parth369963/DataScience_101?style=flat)
+![Stars Badge](https://img.shields.io/github/stars/Parth369963/DataScience_101?style=flat)
+![Forks Badge](https://img.shields.io/github/forks/Parth369963/DataScience_101?style=flat)
+![Pull Requests Badge](https://img.shields.io/github/issues-pr/Parth369963/DataScience_101?style=flat)
+[![Total Downloads](https://img.shields.io/github/downloads/Parth369963/DataScience_101/total.svg)](https://github.com/Parth369963/DataScience_101/releases/)
+
 # DataScience_101
 
 Welcome to the DataScience 101 repository! This repository serves as an introductory guide to the field of Data Science. Whether you're a beginner looking to learn the fundamentals or someone with some experience seeking to refresh your knowledge, this repository has something for you.
